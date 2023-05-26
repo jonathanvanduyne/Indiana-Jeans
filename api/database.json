@@ -1,0 +1,69 @@
+{
+  "submissions": [
+    {
+      "id": 1,
+      "ownsBlueJeans": false,
+      "socioLocationId": 1
+    },
+    {
+      "ownsBLueJeans": false,
+      "socioLocationId": 4,
+      "id": 2
+    },
+    {
+      "ownsBLueJeans": false,
+      "socioLocationId": 4,
+      "id": 3
+    },
+    {
+      "ownsBLueJeans": true,
+      "socioLocationId": 1,
+      "id": 4
+    },
+    {
+      "ownsBLueJeans": false,
+      "socioLocationId": 4,
+      "ownsBlueJeans": false,
+      "id": 5
+    },
+    {
+      "ownsBLueJeans": false,
+      "socioLocationId": 3,
+      "ownsBlueJeans": true,
+      "id": 6
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 7
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 8
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 9
+    }
+  ],
+  "socioLocations": [
+    {
+      "id": 1,
+      "label": "Urban"
+    },
+    {
+      "id": 2,
+      "label": "Suburban"
+    },
+    {
+      "id": 3,
+      "label": "Semi-Rural"
+    },
+    {
+      "id": 4,
+      "label": "Rural"
+    }
+  ]
+}
